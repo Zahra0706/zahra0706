@@ -55,16 +55,18 @@ Je suis passionnée par le développement web et les technologies modernes.
 
 ## 📊 Mes statistiques GitHub
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=zahra0706&show_icons=true&theme=radical" alt="Zahra's GitHub stats">
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahra0706&layout=compact&theme=radical" alt="Top Langs">
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=zahra0706&show_icons=true&theme=radical" alt="Zahra's GitHub stats">
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahra0706&layout=compact&theme=radical" alt="Top Langs">
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
