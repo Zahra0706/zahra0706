@@ -5,10 +5,10 @@ Je suis passionnée par le développement web et les technologies modernes.
 
 ## 🚀 À propos de moi
 
-- 🎓 Diplômée en Licence Pro Informatique et Mathématiques Appliquées
-- 💻 Technologies maîtrisées : C, C++, Python, Java, HTML, CSS, JavaScript, TypeScript, Bootstrap, Tailwind CSS, PHP, Laravel, VB.NET, Angular, Ionic, MATLAB, MySQL, Oracle, MongoDB, Git, GitHub, MERISE, UML, administration systèmes & réseaux, Word, Excel, PowerPoint.
-- 🌐 Créatrice de projets full-stack pour la gestion de réclamations, messagerie interne, portfolio, etc.
-- 📫 Contact : [LinkedIn](www.linkedin.com/in/zahra-chokri-54419925a) | [Portfolio](https://zahra0706.github.io/Portfolio)
+- 🎓 Diplômée en Licence Pro Informatique et Mathématiques Appliquées  
+- 💻 Technologies maîtrisées : C, C++, Python, Java, HTML, CSS, JavaScript, TypeScript, Bootstrap, Tailwind CSS, PHP, Laravel, VB.NET, Angular, Ionic, MATLAB, MySQL, Oracle, MongoDB, Git, GitHub, MERISE, UML, administration systèmes & réseaux, Word, Excel, PowerPoint.  
+- 🌐 Créatrice de projets full-stack pour la gestion de réclamations, messagerie interne, portfolio, etc.  
+- 📫 Contact : [LinkedIn](www.linkedin.com/in/zahra-chokri-54419925a) | [Portfolio](https://zahra0706.github.io/Portfolio) | ✉️ **zahraechokrii@gmail.com**
 
 ---
 
@@ -27,6 +27,7 @@ Je suis passionnée par le développement web et les technologies modernes.
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -35,6 +36,7 @@ Je suis passionnée par le développement web et les technologies modernes.
 ### 🔧 Backend & Bases de données
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -45,6 +47,8 @@ Je suis passionnée par le développement web et les technologies modernes.
 ![UML](https://img.shields.io/badge/UML-007396?style=for-the-badge)
 ![MERISE](https://img.shields.io/badge/MERISE-lightgrey?style=for-the-badge)
 ![Réseaux](https://img.shields.io/badge/Réseaux-0052CC?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ### 🧰 Bureautique
 ![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
@@ -69,5 +73,3 @@ Je suis passionnée par le développement web et les technologies modernes.
 </div>
 
 ---
-
-
