@@ -58,7 +58,7 @@ Je suis développeuse full stack, passionnée par la conception d’applications
 ### 📊 Data, BI & Intelligence Artificielle
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![BI](https://img.shields.io/badge/Business_Intelligence-003366?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
 
 ---
 
