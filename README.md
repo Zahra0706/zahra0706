@@ -32,8 +32,7 @@ I'm a Computer Engineering student specializing in **Emerging Technologies (2ITE
 I thrive at the intersection of **data, intelligence, and scalable systems** — building full-stack applications, exploring machine learning pipelines, and designing cloud-native architectures.
 
 ```text
- ENSAJ — Ecole Nationale des Sciences Appliquées d'El Jadida
- Morocco
+ ENSAJ - Ecole Nationale des Sciences Appliquées d'El Jadida - Morocco
  Currently working on: AI-powered mobile apps & Big Data pipelines
  Learning: MLOps, Reinforcement Learning, Cloud Architecture
  Passionate about: turning raw data into meaningful products
@@ -121,18 +120,18 @@ I thrive at the intersection of **data, intelligence, and scalable systems** —
       <h3>VIGGO</h3>
       <p>Intelligent <strong>driver monitoring</strong> mobile application using computer vision and real-time alerts to improve road safety.</p>
       <p>
-        <img src="https://img.shields.io/badge/Flutter-blue?style=flat-square&logo=flutter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TensorFlow-orange?style=flat-square&logo=tensorflow&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenCV-green?style=flat-square&logo=opencv&logoColor=white"/>
-      </p>
+       <img src="https://img.shields.io/badge/Flutter-e8f4fb?style=flat-square&logo=flutter&logoColor=1a5f8a"/>
+        <img src="https://img.shields.io/badge/Node.js-e6f5ef?style=flat-square&logo=nodedotjs&logoColor=1a6b4a"/>
+        <img src="https://img.shields.io/badge/MongoDB-e6f5ef?style=flat-square&logo=mongodb&logoColor=1a6b4a"/>
+     </p>
     </td>
     <td width="33%" valign="top">
       <h3>NoSQL Schema Inspector</h3>
       <p><strong>Security auditing & visualization</strong> tool for NoSQL databases — detects schema vulnerabilities and generates reports.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-blueviolet?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/ElasticSearch-blue?style=flat-square&logo=elasticsearch&logoColor=white"/>
+         <img src="https://img.shields.io/badge/Python-f0ebff?style=flat-square&logo=python&logoColor=5b3ea6"/>
+         <img src="https://img.shields.io/badge/MongoDB-e6f5ef?style=flat-square&logo=mongodb&logoColor=1a6b4a"/>
+         <img src="https://img.shields.io/badge/Firebase-fef0e8?style=flat-square&logo=firebase&logoColor=8a4520"/>
       </p>
     </td>
     <td width="33%" valign="top">
