@@ -1,21 +1,51 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=9B7FD4&center=true&vCenter=true&width=600&lines=Engineering+Student+in+Computer+Science;Big+Data+%7C+AI+%7C+Cloud+Computing;Flutter+%7C+React+Native+%7C+Full+Stack+Dev;ML+%7C+DL+%7C+RL+%7C+Data+Engineering;Always+learning+emerging+technologies." alt="Typing SVG"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9B7FD4&height=120&section=header&text=Zahra%20Chokri&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=9B7FD4&center=true&vCenter=true&width=620&lines=Engineering+Student+%40+ENSAJ+Morocco;Big+Data+%7C+Artificial+Intelligence+%7C+Cloud;Full+Stack+%7C+Mobile+%7C+Data+Engineering;Building+impactful+solutions+every+day." alt="Typing SVG"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/zahra-chokri-54419925a">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-9b7fd4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://zahra0706.github.io/Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-b89ee0?style=for-the-badge&logo=githubpages&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:zahraechokrii@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20Hi-c9b8f0?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </div>
 
 ---
 
-# Zahra Chokri
+## About Me
 
-Engineering student in **Computer Engineering & Emerging Technologies (2ITE)** at ENSAJ.  
-Passionate about **Big Data, Artificial Intelligence and Cloud Computing**.
+I'm a Computer Engineering student specializing in **Emerging Technologies (2ITE)** at [ENSAJ](https://ensaj.ma), Morocco.  
+I thrive at the intersection of **data, intelligence, and scalable systems** — building full-stack applications, exploring machine learning pipelines, and designing cloud-native architectures.
 
-Morocco
+```text
+ ENSAJ — Ecole Nationale des Sciences Appliquées d'El Jadida
+ Morocco
+ Currently working on: AI-powered mobile apps & Big Data pipelines
+ Learning: MLOps, Reinforcement Learning, Cloud Architecture
+ Passionate about: turning raw data into meaningful products
+```
 
 ---
 
 ## Tech Stack
 
-### Programming Languages
+<details open>
+<summary><b>Languages</b></summary>
+<br/>
 
 ![Python](https://img.shields.io/badge/Python-f0ebff?style=flat-square&logo=python&logoColor=5b3ea6)
 ![Java](https://img.shields.io/badge/Java-f0ebff?style=flat-square&logo=openjdk&logoColor=5b3ea6)
@@ -25,9 +55,11 @@ Morocco
 ![Dart](https://img.shields.io/badge/Dart-f0ebff?style=flat-square&logo=dart&logoColor=5b3ea6)
 ![C++](https://img.shields.io/badge/C++-f0ebff?style=flat-square&logo=c%2B%2B&logoColor=5b3ea6)
 
----
+</details>
 
-### Mobile & Frontend
+<details open>
+<summary><b>Mobile & Frontend</b></summary>
+<br/>
 
 ![Flutter](https://img.shields.io/badge/Flutter-e8f4fb?style=flat-square&logo=flutter&logoColor=1a5f8a)
 ![React Native](https://img.shields.io/badge/React_Native-e8f4fb?style=flat-square&logo=react&logoColor=1a5f8a)
@@ -35,9 +67,11 @@ Morocco
 ![Angular](https://img.shields.io/badge/Angular-e8f4fb?style=flat-square&logo=angular&logoColor=1a5f8a)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-e8f4fb?style=flat-square&logo=tailwindcss&logoColor=1a5f8a)
 
----
+</details>
 
-### Backend & Databases
+<details open>
+<summary><b>Backend & Databases</b></summary>
+<br/>
 
 ![Laravel](https://img.shields.io/badge/Laravel-e6f5ef?style=flat-square&logo=laravel&logoColor=1a6b4a)
 ![Node.js](https://img.shields.io/badge/Node.js-e6f5ef?style=flat-square&logo=nodedotjs&logoColor=1a6b4a)
@@ -46,9 +80,11 @@ Morocco
 ![MySQL](https://img.shields.io/badge/MySQL-e6f5ef?style=flat-square&logo=mysql&logoColor=1a6b4a)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-e6f5ef?style=flat-square&logo=postgresql&logoColor=1a6b4a)
 
----
+</details>
 
-### Big Data & AI
+<details open>
+<summary><b>Big Data & AI</b></summary>
+<br/>
 
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-fef0e8?style=flat-square&logo=apachespark&logoColor=8a4520)
 ![Apache Hive](https://img.shields.io/badge/Apache_Hive-fef0e8?style=flat-square&logo=apache&logoColor=8a4520)
@@ -57,11 +93,13 @@ Morocco
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-fef0e8?style=flat-square&logo=tensorflow&logoColor=8a4520)
 ![OpenCV](https://img.shields.io/badge/OpenCV-fef0e8?style=flat-square&logo=opencv&logoColor=8a4520)
 
-ML • DL • RL • Data Engineering • Analytics
+`ML` · `DL` · `RL` · `Data Engineering` · `Analytics`
 
----
+</details>
 
-### Cloud, DevOps & Security
+<details open>
+<summary><b>Cloud, DevOps & Security</b></summary>
+<br/>
 
 ![Docker](https://img.shields.io/badge/Docker-f5eef8?style=flat-square&logo=docker&logoColor=6b3a8a)
 ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-f5eef8?style=flat-square&logo=elasticsearch&logoColor=6b3a8a)
@@ -69,42 +107,66 @@ ML • DL • RL • Data Engineering • Analytics
 ![Git](https://img.shields.io/badge/Git-f5eef8?style=flat-square&logo=git&logoColor=6b3a8a)
 ![GitHub](https://img.shields.io/badge/GitHub-f5eef8?style=flat-square&logo=github&logoColor=6b3a8a)
 
-Cloud Computing • Cybersecurity • DevOps
+`Cloud Computing` · `Cybersecurity` · `DevOps`
+
+</details>
 
 ---
 
 ## Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| **VIGGO** | Intelligent driver monitoring mobile application |
-| **NoSQL Schema Inspector** | Security auditing & visualization for NoSQL databases |
-| **InvestMaroc** | Investment platform connecting entrepreneurs & investors |
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>VIGGO</h3>
+      <p>Intelligent <strong>driver monitoring</strong> mobile application using computer vision and real-time alerts to improve road safety.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-blue?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TensorFlow-orange?style=flat-square&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenCV-green?style=flat-square&logo=opencv&logoColor=white"/>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>NoSQL Schema Inspector</h3>
+      <p><strong>Security auditing & visualization</strong> tool for NoSQL databases — detects schema vulnerabilities and generates reports.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-blueviolet?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ElasticSearch-blue?style=flat-square&logo=elasticsearch&logoColor=white"/>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>InvestMaroc</h3>
+      <p>Investment platform <strong>connecting Moroccan entrepreneurs with investors</strong>, featuring smart matching and project showcasing.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Laravel-red?style=flat-square&logo=laravel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## GitHub Stats
 
 <div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zahra0706&show_icons=true&theme=catppuccin_latte&count_private=true&hide_border=true&title_color=9b7fd4&icon_color=b89ee0&text_color=4a3080&bg_color=faf7ff"/>
+  &nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahra0706&layout=compact&theme=catppuccin_latte&hide_border=true&title_color=9b7fd4&text_color=4a3080&bg_color=faf7ff"/>
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zahra0706&show_icons=true&theme=catppuccin_latte&count_private=true&hide_border=true&title_color=9b7fd4&icon_color=b89ee0&text_color=4a3080&bg_color=faf7ff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahra0706&layout=compact&theme=catppuccin_latte&hide_border=true&title_color=9b7fd4&text_color=4a3080&bg_color=faf7ff)
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=zahra0706&theme=catppuccin_latte&hide_border=true&ring=9b7fd4&fire=b89ee0&currStreakLabel=4a3080&background=faf7ff" alt="GitHub Streak"/>
 </div>
 
 ---
 
-## Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-f0ebff?style=flat-square&logo=linkedin&logoColor=5b3ea6)](https://www.linkedin.com/in/zahra-chokri-54419925a)
-[![Portfolio](https://img.shields.io/badge/Portfolio-f0ebff?style=flat-square&logo=githubpages&logoColor=5b3ea6)](https://zahra0706.github.io/Portfolio)
-[![Email](https://img.shields.io/badge/Email-f0ebff?style=flat-square&logo=gmail&logoColor=5b3ea6)](mailto:zahraechokrii@gmail.com)
-
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9B7FD4&height=80&section=footer" width="100%"/>
+</div>
 
 <div align="center">
-  
-Exploring emerging technologies and building impactful solutions.
-
+  <sub>Exploring emerging technologies · Building impactful solutions · Open to opportunities</sub>
 </div>
