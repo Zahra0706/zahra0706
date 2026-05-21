@@ -7,9 +7,9 @@
 # Zahra Chokri
 
 Engineering student in **Computer Engineering & Emerging Technologies (2ITE)** at ENSAJ.  
-Passionate about **Big Data, Artificial Intelligence, Cloud Computing, Cybersecurity, and Mobile Development**.
+Passionate about **Big Data, Artificial Intelligence and Cloud Computing**.
 
-📍 Morocco
+Morocco
 
 ---
 
