@@ -1,7 +1,7 @@
 # Zahra Chokri
 
 **Full Stack Developer** · Licence Pro. Informatique & Mathématiques Appliquées  
-Université Chouaib Doukkali, El Jadida — 2024–2025
+Université Chouaib Doukkali, El Jadida - 2024–2025
 
 Développeuse passionnée par la conception d'applications web et mobiles, la data et les systèmes intelligents. Je construis des solutions concrètes, du backend au déploiement, avec une attention particulière à la qualité du code et à l'expérience utilisateur.
 
@@ -52,4 +52,4 @@ Développeuse passionnée par la conception d'applications web et mobiles, la da
 
 ---
 
-*Open to collaborations and new opportunities — feel free to explore my repositories.*
+*Open to collaborations and new opportunities - feel free to explore my repositories.*
