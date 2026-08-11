@@ -124,7 +124,7 @@ I thrive at the intersection of **data, intelligence, and scalable systems** - b
   <tr>
     <td width="33%" valign="top">
       <h3>Water Quality Analysis Automation</h3>
-      <p>PFE internship project at <strong>OCP Jorf Lasfar</strong>: Python solution automating water quality data analysis, KPI computation, visualization, and reporting for a desalination plant.</p>
+      <p>Summer internship project at <strong>OCP Jorf Lasfar</strong>: Python solution automating water quality data analysis, KPI computation, visualization, and reporting for a desalination plant.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-f0ebff?style=flat-square&logo=python&logoColor=5b3ea6"/>
         <img src="https://img.shields.io/badge/Pandas-e6f5ef?style=flat-square&logo=pandas&logoColor=1a6b4a"/>
