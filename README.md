@@ -123,6 +123,15 @@ I thrive at the intersection of **data, intelligence, and scalable systems** - b
 <table>
   <tr>
     <td width="33%" valign="top">
+      <h3>Water Quality Analysis Automation</h3>
+      <p>PFE internship project at <strong>OCP Jorf Lasfar</strong>: Python solution automating water quality data analysis, KPI computation, visualization, and reporting for a desalination plant.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-f0ebff?style=flat-square&logo=python&logoColor=5b3ea6"/>
+        <img src="https://img.shields.io/badge/Pandas-e6f5ef?style=flat-square&logo=pandas&logoColor=1a6b4a"/>
+        <img src="https://img.shields.io/badge/Matplotlib-e6f5ef?style=flat-square&logo=plotly&logoColor=1a6b4a"/>
+      </p>
+    </td>
+    <td width="33%" valign="top">
       <h3>VIGGO</h3>
       <p>Intelligent <strong>driver monitoring</strong> mobile application using computer vision and real-time alerts to improve road safety.</p>
       <p>
@@ -141,6 +150,8 @@ I thrive at the intersection of **data, intelligence, and scalable systems** - b
          <img src="https://img.shields.io/badge/Groq_%2B_Llama_3-fef0e8?style=flat-square&logo=meta&logoColor=8a4520"/>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="33%" valign="top">
       <h3>Amazon Books BI</h3>
       <p>End-to-end <strong>Business Intelligence solution</strong>: ETL pipelines, star-schema data warehouse, OLAP cubes, and interactive dashboards for sales & review analysis.</p>
@@ -150,8 +161,6 @@ I thrive at the intersection of **data, intelligence, and scalable systems** - b
         <img src="https://img.shields.io/badge/Tableau-fef0e8?style=flat-square&logo=tableau&logoColor=8a4520"/>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="33%" valign="top">
       <h3>Medical Appointment Management</h3>
       <p>Secure <strong>healthcare mobile app</strong> with REST APIs for appointment booking, medical records management, and role-based JWT authentication.</p>
