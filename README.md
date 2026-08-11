@@ -76,6 +76,7 @@ I thrive at the intersection of **data, intelligence, and scalable systems** - b
 ![MongoDB](https://img.shields.io/badge/MongoDB-e6f5ef?style=flat-square&logo=mongodb&logoColor=1a6b4a)
 ![MySQL](https://img.shields.io/badge/MySQL-e6f5ef?style=flat-square&logo=mysql&logoColor=1a6b4a)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-e6f5ef?style=flat-square&logo=postgresql&logoColor=1a6b4a)
+![Django](https://img.shields.io/badge/Django-e6f5ef?style=flat-square&logo=django&logoColor=1a6b4a)
 
 </details>
 
@@ -84,13 +85,17 @@ I thrive at the intersection of **data, intelligence, and scalable systems** - b
 <br/>
 
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-fef0e8?style=flat-square&logo=apachespark&logoColor=8a4520)
+![Hadoop](https://img.shields.io/badge/Hadoop-fef0e8?style=flat-square&logo=apachehadoop&logoColor=8a4520)
+![HDFS](https://img.shields.io/badge/HDFS-fef0e8?style=flat-square&logo=apachehadoop&logoColor=8a4520)
+![MapReduce](https://img.shields.io/badge/MapReduce-fef0e8?style=flat-square&logo=apache&logoColor=8a4520)
 ![Apache Hive](https://img.shields.io/badge/Apache_Hive-fef0e8?style=flat-square&logo=apache&logoColor=8a4520)
-![Apache Pig](https://img.shields.io/badge/Apache_Pig-fef0e8?style=flat-square&logo=apache&logoColor=8a4520)
+![Cassandra](https://img.shields.io/badge/Cassandra-fef0e8?style=flat-square&logo=apachecassandra&logoColor=8a4520)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-fef0e8?style=flat-square&logo=apachekafka&logoColor=8a4520)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-fef0e8?style=flat-square&logo=tensorflow&logoColor=8a4520)
+![PyTorch](https://img.shields.io/badge/PyTorch-fef0e8?style=flat-square&logo=pytorch&logoColor=8a4520)
 ![OpenCV](https://img.shields.io/badge/OpenCV-fef0e8?style=flat-square&logo=opencv&logoColor=8a4520)
 
-`ML` · `DL` · `RL` · `Data Engineering` · `Analytics`
+`ML` · `DL` · `RL` · `Data Engineering` · `Analytics` · `BI`
 
 </details>
 
@@ -98,9 +103,12 @@ I thrive at the intersection of **data, intelligence, and scalable systems** - b
 <summary><b>Cloud, DevOps & Security</b></summary>
 <br/>
 
+![AWS](https://img.shields.io/badge/AWS-f5eef8?style=flat-square&logo=amazonaws&logoColor=6b3a8a)
+![GCP](https://img.shields.io/badge/Google_Cloud-f5eef8?style=flat-square&logo=googlecloud&logoColor=6b3a8a)
 ![Docker](https://img.shields.io/badge/Docker-f5eef8?style=flat-square&logo=docker&logoColor=6b3a8a)
 ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-f5eef8?style=flat-square&logo=elasticsearch&logoColor=6b3a8a)
 ![Kibana](https://img.shields.io/badge/Kibana-f5eef8?style=flat-square&logo=kibana&logoColor=6b3a8a)
+![Talend](https://img.shields.io/badge/Talend-f5eef8?style=flat-square&logo=talend&logoColor=6b3a8a)
 ![Git](https://img.shields.io/badge/Git-f5eef8?style=flat-square&logo=git&logoColor=6b3a8a)
 ![GitHub](https://img.shields.io/badge/GitHub-f5eef8?style=flat-square&logo=github&logoColor=6b3a8a)
 
@@ -165,6 +173,19 @@ I thrive at the intersection of **data, intelligence, and scalable systems** - b
     </td>
   </tr>
 </table>
+
+---
+
+## Certifications
+
+![AWS](https://img.shields.io/badge/AWS_Academy-Cloud_Foundations-9b7fd4?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_Academy-Cloud_Security_Foundations-9b7fd4?style=flat-square&logo=amazonaws&logoColor=white)
+![HackerRank](https://img.shields.io/badge/HackerRank-Problem_Solving_(Basic)-b89ee0?style=flat-square&logo=hackerrank&logoColor=white)
+![Udemy](https://img.shields.io/badge/Udemy-ML_%26_AI_Beginners-c9b8f0?style=flat-square&logo=udemy&logoColor=white)
+![OpenClassrooms](https://img.shields.io/badge/OpenClassrooms-3_Certificats-d4c5f5?style=flat-square&logo=openclassrooms&logoColor=white)
+![SoloLearn](https://img.shields.io/badge/SoloLearn-HTML_%2F_CSS_%2F_JS-e0d5f7?style=flat-square&logo=sololearn&logoColor=white)
+
+<sub>See full list with dates on my <a href="https://zahra0706.github.io/Portfolio#certifications">portfolio</a>.</sub>
 
 ---
 
