@@ -182,7 +182,9 @@ I thrive at the intersection of **data, intelligence, and scalable systems** - b
 ![AWS](https://img.shields.io/badge/AWS_Academy-Cloud_Security_Foundations-9b7fd4?style=flat-square&logo=amazonaws&logoColor=white)
 ![HackerRank](https://img.shields.io/badge/HackerRank-Problem_Solving_(Basic)-b89ee0?style=flat-square&logo=hackerrank&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-ML_%26_AI_Beginners-c9b8f0?style=flat-square&logo=udemy&logoColor=white)
-![OpenClassrooms](https://img.shields.io/badge/OpenClassrooms-3_Certificats-d4c5f5?style=flat-square&logo=openclassrooms&logoColor=white)
+![OpenClassrooms](https://img.shields.io/badge/OpenClassrooms-HTML5_%26_CSS3-d4c5f5?style=flat-square&logo=openclassrooms&logoColor=white)
+![OpenClassrooms](https://img.shields.io/badge/OpenClassrooms-PHP_%26_MySQL-d4c5f5?style=flat-square&logo=openclassrooms&logoColor=white)
+![OpenClassrooms](https://img.shields.io/badge/OpenClassrooms-C%2B%2B-d4c5f5?style=flat-square&logo=openclassrooms&logoColor=white)
 ![SoloLearn](https://img.shields.io/badge/SoloLearn-HTML_%2F_CSS_%2F_JS-e0d5f7?style=flat-square&logo=sololearn&logoColor=white)
 
 <sub>See full list with dates on my <a href="https://zahra0706.github.io/Portfolio#certifications">portfolio</a>.</sub>
