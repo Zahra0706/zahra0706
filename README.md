@@ -125,11 +125,33 @@ I thrive at the intersection of **data, intelligence, and scalable systems** - b
     </td>
     <td width="33%" valign="top">
       <h3>NoSQL Schema Inspector</h3>
-      <p><strong>Security auditing & visualization</strong> tool for NoSQL databases - detects schema vulnerabilities and generates reports.</p>
+      <p>Open-source <strong>NoSQL auditing platform</strong>: automatic schema discovery, data quality & security analysis, real-time schema drift detection, and an AI assistant powered by Groq & Llama 3.</p>
       <p>
          <img src="https://img.shields.io/badge/Python-f0ebff?style=flat-square&logo=python&logoColor=5b3ea6"/>
          <img src="https://img.shields.io/badge/MongoDB-e6f5ef?style=flat-square&logo=mongodb&logoColor=1a6b4a"/>
-         <img src="https://img.shields.io/badge/Firebase-fef0e8?style=flat-square&logo=firebase&logoColor=8a4520"/>
+         <img src="https://img.shields.io/badge/CouchDB-e6f5ef?style=flat-square&logo=apachecouchdb&logoColor=1a6b4a"/>
+         <img src="https://img.shields.io/badge/Groq_%2B_Llama_3-fef0e8?style=flat-square&logo=meta&logoColor=8a4520"/>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Amazon Books BI</h3>
+      <p>End-to-end <strong>Business Intelligence solution</strong>: ETL pipelines, star-schema data warehouse, OLAP cubes, and interactive dashboards for sales & review analysis.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PostgreSQL-e6f5ef?style=flat-square&logo=postgresql&logoColor=1a6b4a"/>
+        <img src="https://img.shields.io/badge/CloverDX-fef0e8?style=flat-square&logo=data&logoColor=8a4520"/>
+        <img src="https://img.shields.io/badge/Tableau-fef0e8?style=flat-square&logo=tableau&logoColor=8a4520"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Medical Appointment Management</h3>
+      <p>Secure <strong>healthcare mobile app</strong> with REST APIs for appointment booking, medical records management, and role-based JWT authentication.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-e8f4fb?style=flat-square&logo=flutter&logoColor=1a5f8a"/>
+        <img src="https://img.shields.io/badge/Django_REST-e6f5ef?style=flat-square&logo=django&logoColor=1a6b4a"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-e6f5ef?style=flat-square&logo=postgresql&logoColor=1a6b4a"/>
+        <img src="https://img.shields.io/badge/JWT-f5eef8?style=flat-square&logo=jsonwebtokens&logoColor=6b3a8a"/>
       </p>
     </td>
     <td width="33%" valign="top">
