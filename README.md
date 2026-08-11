@@ -27,17 +27,15 @@
 ---
 
 ## About Me
-
-I'm a Computer Engineering student specializing in **Emerging Technologies (2ITE)** at [ENSAJ](https://ensaj.ma), Morocco.  
-I thrive at the intersection of **data, intelligence, and scalable systems** - building full-stack applications, exploring machine learning pipelines, and designing cloud-native architectures.
+I'm a 3rd-year Computer Engineering student specializing in **Big Data (2ITE)** at [ENSAJ](https://ensaj.ma), Morocco.  
+I thrive at the intersection of **data, intelligence, and scalable systems** - building full-stack applications, designing data pipelines, and exploring machine learning & cloud-native architectures.
 
 ```text
  ENSAJ - Ecole Nationale des Sciences Appliquées d'El Jadida - Morocco
- Currently working on: AI-powered mobile apps & Big Data pipelines
- Learning: MLOps, Reinforcement Learning, Cloud Architecture
+ Currently: PFE Internship @ OCP Jorf Lasfar - Water quality data automation
+ Focus areas: Big Data, Machine Learning, Cloud Computing
  Passionate about: turning raw data into meaningful products
 ```
-
 ---
 
 ## Tech Stack
