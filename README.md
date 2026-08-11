@@ -29,7 +29,7 @@
 ## About Me
 
 I'm a Computer Engineering student specializing in **Emerging Technologies (2ITE)** at [ENSAJ](https://ensaj.ma), Morocco.  
-I thrive at the intersection of **data, intelligence, and scalable systems** — building full-stack applications, exploring machine learning pipelines, and designing cloud-native architectures.
+I thrive at the intersection of **data, intelligence, and scalable systems** - building full-stack applications, exploring machine learning pipelines, and designing cloud-native architectures.
 
 ```text
  ENSAJ - Ecole Nationale des Sciences Appliquées d'El Jadida - Morocco
@@ -127,7 +127,7 @@ I thrive at the intersection of **data, intelligence, and scalable systems** —
     </td>
     <td width="33%" valign="top">
       <h3>NoSQL Schema Inspector</h3>
-      <p><strong>Security auditing & visualization</strong> tool for NoSQL databases — detects schema vulnerabilities and generates reports.</p>
+      <p><strong>Security auditing & visualization</strong> tool for NoSQL databases - detects schema vulnerabilities and generates reports.</p>
       <p>
          <img src="https://img.shields.io/badge/Python-f0ebff?style=flat-square&logo=python&logoColor=5b3ea6"/>
          <img src="https://img.shields.io/badge/MongoDB-e6f5ef?style=flat-square&logo=mongodb&logoColor=1a6b4a"/>
