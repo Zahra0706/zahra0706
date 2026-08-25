@@ -187,16 +187,195 @@ I thrive at the intersection of **data, intelligence, and scalable systems** - b
 
 ## Certifications
 
-![AWS](https://img.shields.io/badge/AWS_Academy-Cloud_Foundations-9b7fd4?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_Academy-Cloud_Security_Foundations-9b7fd4?style=flat-square&logo=amazonaws&logoColor=white)
-![HackerRank](https://img.shields.io/badge/HackerRank-Problem_Solving_(Basic)-b89ee0?style=flat-square&logo=hackerrank&logoColor=white)
-![Udemy](https://img.shields.io/badge/Udemy-ML_%26_AI_Beginners-c9b8f0?style=flat-square&logo=udemy&logoColor=white)
-![OpenClassrooms](https://img.shields.io/badge/OpenClassrooms-HTML5_%26_CSS3-d4c5f5?style=flat-square&logo=openclassrooms&logoColor=white)
-![OpenClassrooms](https://img.shields.io/badge/OpenClassrooms-PHP_%26_MySQL-d4c5f5?style=flat-square&logo=openclassrooms&logoColor=white)
-![OpenClassrooms](https://img.shields.io/badge/OpenClassrooms-C%2B%2B-d4c5f5?style=flat-square&logo=openclassrooms&logoColor=white)
-![SoloLearn](https://img.shields.io/badge/SoloLearn-HTML_%2F_CSS_%2F_JS-e0d5f7?style=flat-square&logo=sololearn&logoColor=white)
+<div align="center">
 
-<sub>See full list with dates on my <a href="https://zahra0706.github.io/Portfolio#certifications">portfolio</a>.</sub>
+### Professional Certifications & Courses
+
+Focused on Data Engineering, Cloud, AI, Web Development and Problem Solving.
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### AWS Academy — Data Engineering
+
+<img src="https://img.shields.io/badge/AWS_Academy-Data_Engineering-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+**AWS Academy** · Aug 2026
+
+Data engineering concepts, data pipelines, storage, processing, analytics and AWS data services.
+
+**[View Certificate](certs/AWS_Data_Engineering.pdf)**
+
+</td>
+
+<td width="50%" valign="top">
+
+### AWS Academy — Cloud Security Foundations
+
+<img src="https://img.shields.io/badge/AWS_Academy-Cloud_Security-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+**AWS Academy** · May 2026
+
+Foundations of cloud security, identity management, data protection and AWS security services.
+
+**[View Certificate](certs/aws-cloud-security-foundations.pdf)**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### AWS Academy — Cloud Foundations
+
+<img src="https://img.shields.io/badge/AWS_Academy-Cloud_Foundations-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+**AWS Academy** · Apr 2026
+
+Core cloud computing concepts and fundamental AWS services, architectures and pricing.
+
+**[View Certificate](certs/aws-cloud-foundations.pdf)**
+
+</td>
+
+<td width="50%" valign="top">
+
+### Machine Learning & AI Beginners
+
+<img src="https://img.shields.io/badge/Udemy-Machine_Learning_%26_AI-A435F0?style=for-the-badge&logo=udemy&logoColor=white"/>
+
+**Udemy** · Jan 2026
+
+Introduction to Machine Learning and Artificial Intelligence concepts and techniques.
+
+**[View Certificate](certs/udemy-ml-ai-beginners.jpg)**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Problem Solving (Basic)
+
+<img src="https://img.shields.io/badge/HackerRank-Problem_Solving-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+
+**HackerRank** · Jul 2026
+
+Problem-solving certification covering fundamental algorithms and programming logic.
+
+**[View Certificate](certs/hackerrank-problem-solving.pdf)**
+
+</td>
+
+<td width="50%" valign="top">
+
+### PHP & MySQL
+
+<img src="https://img.shields.io/badge/OpenClassrooms-PHP_%26_MySQL-7451EB?style=for-the-badge&logo=php&logoColor=white"/>
+
+**OpenClassrooms** · Dec 2023
+
+Design and development of dynamic web applications using PHP and MySQL.
+
+**[View Certificate](certs/openclassrooms-php-mysql.pdf)**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### HTML5 & CSS3
+
+<img src="https://img.shields.io/badge/OpenClassrooms-HTML5_%26_CSS3-7451EB?style=for-the-badge&logo=html5&logoColor=white"/>
+
+**OpenClassrooms** · Oct 2023
+
+Web page structure, responsive layouts and modern CSS styling.
+
+**[View Certificate](certs/openclassrooms-html5-css3.pdf)**
+
+</td>
+
+<td width="50%" valign="top">
+
+### Introduction to JavaScript
+
+<img src="https://img.shields.io/badge/SoloLearn-JavaScript-149EF2?style=for-the-badge&logo=javascript&logoColor=white"/>
+
+**SoloLearn** · Aug 2023
+
+JavaScript fundamentals, programming concepts and browser-based scripting.
+
+**[View Certificate](certs/sololearn-javascript.pdf)**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Introduction to CSS
+
+<img src="https://img.shields.io/badge/SoloLearn-CSS-149EF2?style=for-the-badge&logo=css3&logoColor=white"/>
+
+**SoloLearn** · Aug 2023
+
+CSS fundamentals for styling and designing web interfaces.
+
+**[View Certificate](certs/sololearn-css.pdf)**
+
+</td>
+
+<td width="50%" valign="top">
+
+### Introduction to HTML
+
+<img src="https://img.shields.io/badge/SoloLearn-HTML-149EF2?style=for-the-badge&logo=html5&logoColor=white"/>
+
+**SoloLearn** · Jul 2023
+
+HTML fundamentals and semantic web page structure.
+
+**[View Certificate](certs/sololearn-html.pdf)**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### C++ Programming
+
+<img src="https://img.shields.io/badge/OpenClassrooms-C%2B%2B-7451EB?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+**OpenClassrooms** · Apr 2023
+
+Programming fundamentals, object-oriented programming and C++ development.
+
+**[View Certificate](certs/openclassrooms-cpp.pdf)**
+
+</td>
+
+<td width="50%" valign="middle" align="center">
+
+### More Certifications
+
+Additional details about my certifications, skills and projects are available on my portfolio.
+
+<br>
+
+<a href="https://zahra0706.github.io/Portfolio#certifications">
+  <img src="https://img.shields.io/badge/View_All_Certifications-Portfolio-9b7fd4?style=for-the-badge&logo=githubpages&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
