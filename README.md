@@ -194,7 +194,7 @@ I thrive at the intersection of **data, intelligence, and scalable systems** - b
   </tr>
 
   <tr>
-    <td><strong>AWS Academy</strong> - Data Engineering</td>
+    <td>![AWS](https://img.shields.io/badge/AWS_Academy-Data_Engineering-9b7fd4?style=flat-square&logo=amazonaws&logoColor=white)</td>
     <td align="right"><strong>Aug 2026</strong></td>
   </tr>
 
