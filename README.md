@@ -187,93 +187,95 @@ I thrive at the intersection of **data, intelligence, and scalable systems** - b
 
 ## Certifications
 
-<table width="100%">
+<div align="center">
 
-<tr>
-<td>
-  <img src="https://img.shields.io/badge/AWS_Academy-Machine_Learning_Foundations-9b7fd4?style=flat-square&logo=amazonaws&logoColor=white"/>
-</td>
-<td align="right"><strong>Sep 2026</strong></td>
-</tr>
+<table>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/AWS_Academy-Machine_Learning_Foundations-9b7fd4?style=flat-square&logo=amazonaws&logoColor=white"/>
+    </td>
+    <td align="right"><strong>Sep 2026</strong></td>
+  </tr>
 
-<tr>
-<td>
-  <img src="https://img.shields.io/badge/AWS_Academy-Data_Engineering-9b7fd4?style=flat-square&logo=amazonaws&logoColor=white"/>
-</td>
-<td align="right"><strong>Aug 2026</strong></td>
-</tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/AWS_Academy-Data_Engineering-9b7fd4?style=flat-square&logo=amazonaws&logoColor=white"/>
+    </td>
+    <td align="right"><strong>Aug 2026</strong></td>
+  </tr>
 
-<tr>
-<td>
-  <img src="https://img.shields.io/badge/HackerRank-Problem_Solving_(Basic)-b89ee0?style=flat-square&logo=hackerrank&logoColor=white"/>
-</td>
-<td align="right"><strong>Jul 2026</strong></td>
-</tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/HackerRank-Problem_Solving_(Basic)-b89ee0?style=flat-square&logo=hackerrank&logoColor=white"/>
+    </td>
+    <td align="right"><strong>Jul 2026</strong></td>
+  </tr>
 
-<tr>
-<td>
-  <img src="https://img.shields.io/badge/AWS_Academy-Cloud_Security_Foundations-9b7fd4?style=flat-square&logo=amazonaws&logoColor=white"/>
-</td>
-<td align="right"><strong>May 2026</strong></td>
-</tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/AWS_Academy-Cloud_Security_Foundations-9b7fd4?style=flat-square&logo=amazonaws&logoColor=white"/>
+    </td>
+    <td align="right"><strong>May 2026</strong></td>
+  </tr>
 
-<tr>
-<td>
-  <img src="https://img.shields.io/badge/AWS_Academy-Cloud_Foundations-9b7fd4?style=flat-square&logo=amazonaws&logoColor=white"/>
-</td>
-<td align="right"><strong>Apr 2026</strong></td>
-</tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/AWS_Academy-Cloud_Foundations-9b7fd4?style=flat-square&logo=amazonaws&logoColor=white"/>
+    </td>
+    <td align="right"><strong>Apr 2026</strong></td>
+  </tr>
 
-<tr>
-<td>
-  <img src="https://img.shields.io/badge/Udemy-Machine_Learning_%26_AI_Beginners-c9b8f0?style=flat-square&logo=udemy&logoColor=white"/>
-</td>
-<td align="right"><strong>Jan 2026</strong></td>
-</tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Udemy-Machine_Learning_%26_AI_Beginners-c9b8f0?style=flat-square&logo=udemy&logoColor=white"/>
+    </td>
+    <td align="right"><strong>Jan 2026</strong></td>
+  </tr>
 
-<tr>
-<td>
-  <img src="https://img.shields.io/badge/OpenClassrooms-PHP_%26_MySQL-d4c5f5?style=flat-square&logo=openclassrooms&logoColor=white"/>
-</td>
-<td align="right"><strong>Dec 2023</strong></td>
-</tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/OpenClassrooms-PHP_%26_MySQL-d4c5f5?style=flat-square&logo=openclassrooms&logoColor=white"/>
+    </td>
+    <td align="right"><strong>Dec 2023</strong></td>
+  </tr>
 
-<tr>
-<td>
-  <img src="https://img.shields.io/badge/OpenClassrooms-HTML5_%26_CSS3-d4c5f5?style=flat-square&logo=openclassrooms&logoColor=white"/>
-</td>
-<td align="right"><strong>Oct 2023</strong></td>
-</tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/OpenClassrooms-HTML5_%26_CSS3-d4c5f5?style=flat-square&logo=openclassrooms&logoColor=white"/>
+    </td>
+    <td align="right"><strong>Oct 2023</strong></td>
+  </tr>
 
-<tr>
-<td>
-  <img src="https://img.shields.io/badge/SoloLearn-JavaScript-e0d5f7?style=flat-square&logo=javascript&logoColor=white"/>
-</td>
-<td align="right"><strong>Aug 2023</strong></td>
-</tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/SoloLearn-JavaScript-e0d5f7?style=flat-square&logo=javascript&logoColor=white"/>
+    </td>
+    <td align="right"><strong>Aug 2023</strong></td>
+  </tr>
 
-<tr>
-<td>
-  <img src="https://img.shields.io/badge/SoloLearn-CSS-e0d5f7?style=flat-square&logo=css3&logoColor=white"/>
-</td>
-<td align="right"><strong>Aug 2023</strong></td>
-</tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/SoloLearn-CSS-e0d5f7?style=flat-square&logo=css3&logoColor=white"/>
+    </td>
+    <td align="right"><strong>Aug 2023</strong></td>
+  </tr>
 
-<tr>
-<td>
-  <img src="https://img.shields.io/badge/SoloLearn-HTML-e0d5f7?style=flat-square&logo=html5&logoColor=white"/>
-</td>
-<td align="right"><strong>Jul 2023</strong></td>
-</tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/SoloLearn-HTML-e0d5f7?style=flat-square&logo=html5&logoColor=white"/>
+    </td>
+    <td align="right"><strong>Jul 2023</strong></td>
+  </tr>
 
-<tr>
-<td>
-  <img src="https://img.shields.io/badge/OpenClassrooms-C%2B%2B-d4c5f5?style=flat-square&logo=cplusplus&logoColor=white"/>
-</td>
-<td align="right"><strong>Apr 2023</strong></td>
-</tr>
-
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/OpenClassrooms-C%2B%2B-d4c5f5?style=flat-square&logo=cplusplus&logoColor=white"/>
+    </td>
+    <td align="right"><strong>Apr 2023</strong></td>
+  </tr>
 </table>
+
+</div>
 
 <sub>
 See full list of certifications on my
