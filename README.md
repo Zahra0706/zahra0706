@@ -187,17 +187,62 @@ I thrive at the intersection of **data, intelligence, and scalable systems** - b
 
 ## Certifications
 
-![AWS](https://img.shields.io/badge/AWS_Academy-Data_Engineering-9b7fd4?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_Academy-Cloud_Security_Foundations-9b7fd4?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_Academy-Cloud_Foundations-9b7fd4?style=flat-square&logo=amazonaws&logoColor=white)
-![HackerRank](https://img.shields.io/badge/HackerRank-Problem_Solving_(Basic)-b89ee0?style=flat-square&logo=hackerrank&logoColor=white)
-![Udemy](https://img.shields.io/badge/Udemy-ML_%26_AI_Beginners-c9b8f0?style=flat-square&logo=udemy&logoColor=white)
-![OpenClassrooms](https://img.shields.io/badge/OpenClassrooms-HTML5_%26_CSS3-d4c5f5?style=flat-square&logo=openclassrooms&logoColor=white)
-![OpenClassrooms](https://img.shields.io/badge/OpenClassrooms-PHP_%26_MySQL-d4c5f5?style=flat-square&logo=openclassrooms&logoColor=white)
-![OpenClassrooms](https://img.shields.io/badge/OpenClassrooms-C%2B%2B-d4c5f5?style=flat-square&logo=openclassrooms&logoColor=white)
-![SoloLearn](https://img.shields.io/badge/SoloLearn-HTML_%2F_CSS_%2F_JS-e0d5f7?style=flat-square&logo=sololearn&logoColor=white)
+<table width="100%">
+  <tr>
+    <td><strong>AWS Academy</strong> - Machine Learning Foundations</td>
+    <td align="right"><strong>Sep 2026</strong></td>
+  </tr>
 
-<sub>See full list with dates on my <a href="https://zahra0706.github.io/Portfolio#certifications">portfolio</a>.</sub>
+  <tr>
+    <td><strong>AWS Academy</strong> - Data Engineering</td>
+    <td align="right"><strong>Aug 2026</strong></td>
+  </tr>
+
+  <tr>
+    <td><strong>AWS Academy</strong> - Cloud Security Foundations</td>
+    <td align="right"><strong>May 2026</strong></td>
+  </tr>
+
+  <tr>
+    <td><strong>AWS Academy</strong> - Cloud Foundations</td>
+    <td align="right"><strong>Apr 2026</strong></td>
+  </tr>
+
+  <tr>
+    <td><strong>HackerRank</strong> - Problem Solving (Basic)</td>
+    <td align="right"></td>
+  </tr>
+
+  <tr>
+    <td><strong>Udemy</strong> - Machine Learning & AI for Beginners</td>
+    <td align="right"></td>
+  </tr>
+
+  <tr>
+    <td><strong>OpenClassrooms</strong> - HTML5 & CSS3</td>
+    <td align="right"></td>
+  </tr>
+
+  <tr>
+    <td><strong>OpenClassrooms</strong> - PHP & MySQL</td>
+    <td align="right"></td>
+  </tr>
+
+  <tr>
+    <td><strong>OpenClassrooms</strong> - C++</td>
+    <td align="right"></td>
+  </tr>
+
+  <tr>
+    <td><strong>SoloLearn</strong> - HTML / CSS / JavaScript</td>
+    <td align="right"></td>
+  </tr>
+</table>
+
+<sub>
+See full list of certifications on my
+<a href="https://zahra0706.github.io/Portfolio#certifications">portfolio</a>.
+</sub>
 
 ---
 
