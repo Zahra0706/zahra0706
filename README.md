@@ -192,6 +192,13 @@ I thrive at the intersection of **data, intelligence, and scalable systems** - b
 <table>
   <tr>
     <td>
+      <img src="https://img.shields.io/badge/AWS_Academy-Machine_Learning_for_Natural_Language_Processing-9b7fd4?style=flat-square&logo=amazonaws&logoColor=white"/>
+    </td>
+    <td align="right"><strong>Sep 2026</strong></td>
+  </tr>
+  
+  <tr>
+    <td>
       <img src="https://img.shields.io/badge/AWS_Academy-Machine_Learning_Foundations-9b7fd4?style=flat-square&logo=amazonaws&logoColor=white"/>
     </td>
     <td align="right"><strong>Sep 2026</strong></td>
