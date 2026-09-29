@@ -27,7 +27,7 @@
 ---
 
 ## About Me
-I'm a 3rd-year Computer Engineering student specializing in **Big Data (2ITE)** at [ENSAJ](https://ensaj.ma), Morocco.  
+I'm a last year Computer Engineering student specializing in **Big Data (2ITE)** at [ENSAJ](https://ensaj.ma), Morocco.  
 I thrive at the intersection of **data, intelligence, and scalable systems** - building full-stack applications, designing data pipelines, and exploring machine learning & cloud-native architectures.
 
 ```text
