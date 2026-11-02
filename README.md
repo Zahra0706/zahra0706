@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=9B7FD4&center=true&vCenter=true&width=620&lines=Engineering+Student+%40+ENSAJ+Morocco;Big+Data+%7C+Artificial+Intelligence+%7C+Cloud;Full+Stack+%7C+Mobile+%7C+Data+Engineering;Building+impactful+solutions+every+day." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=9B7FD4&center=true&vCenter=true&width=620&lines=Engineering+Student+%40+ENSAJ+Morocco;Big+Data+%7C+Artificial+Intelligence+%7C+Cloud;Data+Engineering+%7C+Full+Stack+%7C+Mobile;Building+impactful+solutions+every+day." alt="Typing SVG"/>
 </div>
 
 <br/>
